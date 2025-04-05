@@ -16,7 +16,7 @@ Welcome to Expense Tracker, a web application built with React.js that helps you
 
 ## Live Demo
 
-You can access the live demo of the Expense Tracker by clicking [here](https://my-expense-tracker.onrender.com/).
+[You can access the live demo of the Expense Tracker by clicking here](https://fancy-expense-tracker.netlify.app/)
 
 ## Getting Started
 
